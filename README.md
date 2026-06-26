@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Frida%20Sofía%20Villegas%20García&fontSize=45&fontAlignY=40&animation=fadeIn" />
 </p>
 
-<h1 align="center">Frida Sofía Villegas García</h1>
+
 
 <h3 align="center">
 Software Developer | Full Stack Developer | Mobile Developer | Engineering Student

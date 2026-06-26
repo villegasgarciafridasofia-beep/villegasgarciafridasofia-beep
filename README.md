@@ -183,7 +183,7 @@ Participé en proyectos tecnológicos enfocados en la optimización y automatiza
 
 # Proyectos Destacados
 
-## SportTec
+## Sporttec
 
 Plataforma web desarrollada para la gestión de actividades deportivas de la Universidad Tecnológica, permitiendo la administración de eventos, participantes, registros y control de información deportiva.
 

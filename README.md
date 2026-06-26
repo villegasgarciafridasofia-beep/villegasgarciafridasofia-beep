@@ -16,19 +16,19 @@ Software Developer | Full Stack Developer | Mobile Developer | Engineering Stude
 
 # Perfil Profesional
 
-Profesional en formación en Ingeniería en Desarrollo y Gestión de Software con experiencia en desarrollo web, aplicaciones móviles, bases de datos y automatización de procesos.
+Profesional en formación en **Ingeniería en Desarrollo y Gestión de Software**, con experiencia en **desarrollo web**, **aplicaciones móviles**, **bases de datos** y **automatización de procesos**.
 
-He participado en proyectos tecnológicos dentro de la Fuerza Aérea Mexicana, desarrollando soluciones orientadas a la optimización de procesos, gestión documental y manejo de información técnica.
+Participé en proyectos tecnológicos dentro del **Centro de Investigación y Desarrollo Tecnológico de la Fuerza Aérea Mexicana (C.I.D.T.F.A.)**, contribuyendo al desarrollo de soluciones enfocadas en la **optimización de procesos**, **gestión documental** y **administración de información técnica**.
 
-Poseo conocimientos en desarrollo Full Stack, arquitecturas cliente-servidor, bases de datos relacionales y NoSQL, desarrollo móvil multiplataforma y metodologías para la creación de soluciones tecnológicas innovadoras.
+Cuento con conocimientos en **desarrollo Full Stack**, **arquitecturas cliente-servidor**, **patrones de diseño MVC y MVVM**, **bases de datos relacionales y NoSQL**, así como en el desarrollo de aplicaciones multiplataforma utilizando tecnologías modernas. Me caracterizo por mi capacidad de aprendizaje continuo, trabajo en equipo y compromiso con la creación de soluciones tecnológicas eficientes e innovadoras.
 ---
 # Sobre Mí
 
-Técnico Superior Universitario en Tecnologías de la Información, área Desarrollo de Software Multiplataforma,actualmente cursando el **9.º Cuatrimestre de Ingeniería en Desarrollo y Gestión de Software**.
+**Técnico Superior Universitario en Tecnologías de la Información** con especialidad en **Desarrollo de Software Multiplataforma**, actualmente estudiante del **9.º Cuatrimestre de Ingeniería en Desarrollo y Gestión de Software**.
 
-Realicé mi Servicio Social en el **Centro de Investigación y Desarrollo Tecnológico de la Fuerza Aérea Mexicana (C.I.D.T.F.A.)**, participando en proyectos de automatización y optimización de procesos técnicos aeronáuticos.
+Cuento con experiencia en proyectos tecnológicos desarrollados en el **Centro de Investigación y Desarrollo Tecnológico de la Fuerza Aérea Mexicana (C.I.D.T.F.A.)**, donde participé en actividades de **automatización de procesos**, **gestión de información técnica** y **optimización de procedimientos operativos**.
 
-Apasionada por el desarrollo de software, aplicaciones móviles, desarrollo web, bases de datos y automatización de procesos, me gusta aprender nuevas tecnologías y desarrollar soluciones innovadoras que generen impacto en organizaciones y usuarios,siempre en constante aprendizaje y crecimiento profesional.
+Mis principales áreas de interés son el **desarrollo web**, **desarrollo móvil**, **bases de datos**, **arquitecturas de software** y la **automatización de procesos**, enfocándome en la creación de soluciones tecnológicas eficientes e innovadoras.
 ---
 # Formación Académica
 

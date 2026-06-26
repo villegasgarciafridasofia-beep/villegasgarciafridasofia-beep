@@ -21,25 +21,15 @@ Profesional en formación en Ingeniería en Desarrollo y Gestión de Software co
 He participado en proyectos tecnológicos dentro de la Fuerza Aérea Mexicana, desarrollando soluciones orientadas a la optimización de procesos, gestión documental y manejo de información técnica.
 
 Poseo conocimientos en desarrollo Full Stack, arquitecturas cliente-servidor, bases de datos relacionales y NoSQL, desarrollo móvil multiplataforma y metodologías para la creación de soluciones tecnológicas innovadoras.
-
 ---
-
 # Sobre Mí
 
-Técnico Superior Universitario en Tecnologías de la Información, área Desarrollo de Software Multiplataforma.
-
-Actualmente cursando el **9.º Cuatrimestre de Ingeniería en Desarrollo y Gestión de Software**.
+Técnico Superior Universitario en Tecnologías de la Información, área Desarrollo de Software Multiplataforma,actualmente cursando el **9.º Cuatrimestre de Ingeniería en Desarrollo y Gestión de Software**.
 
 Realicé mi Servicio Social en el **Centro de Investigación y Desarrollo Tecnológico de la Fuerza Aérea Mexicana (C.I.D.T.F.A.)**, participando en proyectos de automatización y optimización de procesos técnicos aeronáuticos.
 
-Apasionada por el desarrollo de software, aplicaciones móviles, desarrollo web, bases de datos y automatización de procesos.
-
-Me gusta aprender nuevas tecnologías y desarrollar soluciones innovadoras que generen impacto en organizaciones y usuarios.
-
-Siempre en constante aprendizaje y crecimiento profesional.
-
+Apasionada por el desarrollo de software, aplicaciones móviles, desarrollo web, bases de datos y automatización de procesos, me gusta aprender nuevas tecnologías y desarrollar soluciones innovadoras que generen impacto en organizaciones y usuarios,siempre en constante aprendizaje y crecimiento profesional.
 ---
-
 # Formación Académica
 
 ### Ingeniería en Desarrollo y Gestión de Software

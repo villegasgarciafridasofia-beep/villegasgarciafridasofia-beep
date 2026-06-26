@@ -20,7 +20,7 @@ Profesional en formación en **Ingeniería en Desarrollo y Gestión de Software*
 
 Participé en proyectos tecnológicos dentro del **Centro de Investigación y Desarrollo Tecnológico de la Fuerza Aérea Mexicana (C.I.D.T.F.A.)**, contribuyendo al desarrollo de soluciones enfocadas en la **optimización de procesos**, **gestión documental** y **administración de información técnica**.
 
-Cuento con conocimientos en **desarrollo Full Stack**, **arquitecturas cliente-servidor**, **patrones de diseño MVC y MVVM**, **bases de datos relacionales y NoSQL**, así como en el desarrollo de aplicaciones multiplataforma utilizando tecnologías modernas. Me caracterizo por mi capacidad de aprendizaje continuo, trabajo en equipo y compromiso con la creación de soluciones tecnológicas eficientes e innovadoras.
+Poseo conocimientos en **desarrollo Full Stack**, **arquitecturas cliente-servidor**, **patrones de diseño MVC y MVVM**, **bases de datos relacionales y NoSQL**, y desarrollo de aplicaciones web y móviles multiplataforma. Mi enfoque se centra en el diseño e implementación de soluciones tecnológicas eficientes y escalables, apoyándome en el aprendizaje continuo, la adaptación a nuevas tecnologías y el trabajo colaborativo para alcanzar resultados de alto impacto.
 ---
 # Sobre Mí
 
@@ -28,7 +28,7 @@ Cuento con conocimientos en **desarrollo Full Stack**, **arquitecturas cliente-s
 
 Cuento con experiencia en proyectos tecnológicos desarrollados en el **Centro de Investigación y Desarrollo Tecnológico de la Fuerza Aérea Mexicana (C.I.D.T.F.A.)**, donde participé en actividades de **automatización de procesos**, **gestión de información técnica** y **optimización de procedimientos operativos**.
 
-Mis principales áreas de interés son el **desarrollo web**, **desarrollo móvil**, **bases de datos**, **arquitecturas de software** y la **automatización de procesos**, enfocándome en la creación de soluciones tecnológicas eficientes e innovadoras.
+Mis principales áreas de interés abarcan el **desarrollo web**, **desarrollo móvil**, **gestión y administración de bases de datos**, **arquitecturas de software** y la **automatización de procesos**. Busco aplicar las mejores prácticas de ingeniería de software para desarrollar soluciones tecnológicas innovadoras, eficientes y orientadas a las necesidades reales de los usuarios y las organizaciones.
 ---
 # Formación Académica
 

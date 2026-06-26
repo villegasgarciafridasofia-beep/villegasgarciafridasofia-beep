@@ -26,17 +26,17 @@ Poseo conocimientos en desarrollo Full Stack, arquitecturas cliente-servidor, ba
 
 # 🚀 Sobre Mí
 
-🎓 Técnico Superior Universitario en Tecnologías de la Información, área Desarrollo de Software Multiplataforma.
+ Técnico Superior Universitario en Tecnologías de la Información, área Desarrollo de Software Multiplataforma.
 
-📚 Actualmente cursando el **9.º Cuatrimestre de Ingeniería en Desarrollo y Gestión de Software**.
+Actualmente cursando el **9.º Cuatrimestre de Ingeniería en Desarrollo y Gestión de Software**.
 
-✈️ Realicé mi Servicio Social en el **Centro de Investigación y Desarrollo Tecnológico de la Fuerza Aérea Mexicana (C.I.D.T.F.A.)**, participando en proyectos de automatización y optimización de procesos técnicos aeronáuticos.
+ Realicé mi Servicio Social en el **Centro de Investigación y Desarrollo Tecnológico de la Fuerza Aérea Mexicana (C.I.D.T.F.A.)**, participando en proyectos de automatización y optimización de procesos técnicos aeronáuticos.
 
-💻 Apasionada por el desarrollo de software, aplicaciones móviles, desarrollo web, bases de datos y automatización de procesos.
+ Apasionada por el desarrollo de software, aplicaciones móviles, desarrollo web, bases de datos y automatización de procesos.
 
-🌎 Me gusta aprender nuevas tecnologías y desarrollar soluciones innovadoras que generen impacto en organizaciones y usuarios.
+ Me gusta aprender nuevas tecnologías y desarrollar soluciones innovadoras que generen impacto en organizaciones y usuarios.
 
-⚡ Siempre en constante aprendizaje y crecimiento profesional.
+ Siempre en constante aprendizaje y crecimiento profesional.
 
 ---
 
@@ -44,7 +44,7 @@ Poseo conocimientos en desarrollo Full Stack, arquitecturas cliente-servidor, ba
 
 ### Ingeniería en Desarrollo y Gestión de Software
 
-📍 Actualmente cursando el 9.º Cuatrimestre.
+ Actualmente cursando el 9.º Cuatrimestre.
 
 ### Técnico Superior Universitario
 

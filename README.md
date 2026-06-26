@@ -266,4 +266,4 @@ Transformando ideas en soluciones tecnológicas mediante innovación, disciplina
 Gracias por visitar mi perfil.
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/> en las que no se encuentra icono podrias poner como una etiqueta de color como si estubieran en un rectangulo 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/> 
